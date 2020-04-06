@@ -8,3 +8,4 @@ if (1==1){
 } else {}
 
 ?>
+Wah parah sih bro, tapi gue sih owh aja..
